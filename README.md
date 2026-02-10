@@ -78,14 +78,6 @@ I’m passionate about building intelligent systems and scalable applications. M
 
 ---
 
-## 📊 GitHub Stats  
-
-![Rutwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutwikk5&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutwikk5&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Rutwikk5&theme=tokyonight)  
-
----
-
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutwik-dakhore)  
