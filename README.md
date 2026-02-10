@@ -41,20 +41,20 @@ I’m passionate about building intelligent systems and scalable applications. M
   Built a fake news classifier using **NLP + Computer Vision** with independent text and image pipelines. Implemented **late fusion** to combine both predictions and structured the solution as a modular ML pipeline evaluated using standard classification metrics.  
   **Tech:** Python, Scikit-learn, TensorFlow, NLP, Computer Vision  
 
-- **[IoT-Based Patient Monitoring System](#)**  
-  Wearable sensors + Raspberry Pi for real-time patient vitals monitoring.  
-
-- **[Hotel Booking EDA](#)**  
-  Data analysis on booking trends & cancellations using Pandas, Seaborn, Matplotlib.  
-
-- **[Mobile Price Prediction](#)**  
-  ML models (Random Forest, XGBoost) predicting smartphone price ranges with 85% accuracy.  
+- **[Customer Segmentation for Retail](#)**  
+  K-means & Hierarchical clustering to boost retention and sales with targeted campaigns.
 
 - **[Bike Sharing Demand Forecasting](#)**  
-  Time-series ML models improving demand prediction accuracy by 20%.  
+  Time-series ML models improving demand prediction accuracy by 20%.
 
-- **[Customer Segmentation for Retail](#)**  
-  K-means & Hierarchical clustering to boost retention and sales with targeted campaigns.  
+- **[Mobile Price Prediction](#)**  
+  ML models (Random Forest, XGBoost) predicting smartphone price ranges with 85% accuracy.
+
+- **[Hotel Booking EDA](#)**  
+  Data analysis on booking trends & cancellations using Pandas, Seaborn, Matplotlib.
+  
+- **[IoT-Based Patient Monitoring System](#)**  
+  Wearable sensors + Raspberry Pi for real-time patient vitals monitoring.  
 
 ---
 
